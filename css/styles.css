@@ -29,12 +29,13 @@
   height: 50px;
   border-radius: 5px;
   border: 0;
-  font-weight: 600;
   font-size: 18px;
+  font-weight: 600;
   color: #ffffff;
   background-color: red;
   padding: 10px 20px;
   margin: 30px 0;
+  cursor: pointer;
 }
 /* failures section */
 .failures-section {
@@ -96,12 +97,13 @@
   height: 50px;
   border-radius: 5px;
   border: 0;
-  font-weight: 600;
   font-size: 18px;
+  font-weight: 600;
   color: #fa0505;
-  background-color: rgb(255, 255, 255);
+  background-color: #ffffff;
   padding: 10px 20px;
   margin: 20px 100px;
+  cursor: pointer;
 }
 /* footer secton */
 .footer-section {
@@ -137,10 +139,11 @@
   height: 50px;
   border-radius: 5px;
   border: 0;
-  font-weight: 600;
   font-size: 18px;
+  font-weight: 600;
   color: #fa0505;
-  background-color: rgb(255, 255, 255);
+  background-color: #ffffff;
   padding: 10px 20px;
   margin: 20px 0px;
+  cursor: pointer;
 }
