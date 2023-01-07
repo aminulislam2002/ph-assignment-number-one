@@ -35,3 +35,19 @@
   font-weight: 400;
   color: #777676;
 }
+/* failures section */
+.failures-section {
+  display: flex;
+  gap: 60px;
+  margin: 0 200px;
+  padding: 50px 0;
+  align-items: center;
+}
+.failures-section .failures li {
+  margin-top: 10px;
+}
+.section-title {
+  font-size: 35px;
+  font-weight: 900;
+  margin-bottom: 10px;
+}
